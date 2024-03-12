@@ -1,5 +1,7 @@
 # uav_trajectories
-Helper scripts and programs for trajectories to be used on UAVs
+Helper scripts and programs for trajectories to be used on UAVs. 
+
+Examples/yaw_with_time.py is slightly altered in this fork to make it convenient to generate spiral trajectories. 
 
 # Requirements
 
